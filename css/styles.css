@@ -61,6 +61,8 @@ body{
 .payment-plan{
     padding-left: 30px;
     padding-right: 30px;
+    display: flex;
+    align-items: center;
 }
 
 .payment-btn{
@@ -101,6 +103,7 @@ body{
     padding-left: 85px;
     font-weight: 600;
     font-size: 13px;
+    margin-top: 30px;
 }
 
 .change:hover{
