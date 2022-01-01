@@ -121,6 +121,20 @@ body{
     font-weight: 900;
 }
 
+#github {
+  font-size: 40px;
+  color: #3d3f46;
+  display: block;
+  display: flex;
+  justify-content: right;
+  margin-right: 50px;
+  margin-top: 30px;
+}
+
+body > a {
+  text-decoration: none;
+}
+
 @media all and (max-width : 450px) {
     .card{
         width: 90%;
